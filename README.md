@@ -21,10 +21,10 @@ So, you do need to have django installed on your computers.
 
 3. Run the following command:
 
-**python manage.py runserver**
+	**python manage.py runserver**
 
 4. Now open the website using the link you get after running the server.
 
 5. You have to add "/music/" at end of the link you get.
 
-6.That's it. Enjoy the website!!
+6. That's it. Enjoy the website!!
